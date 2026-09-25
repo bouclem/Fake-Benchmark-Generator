@@ -1,0 +1,8 @@
+{
+  "benchmarkName": "My SWE Style Benchmark",
+  "models": [
+    { "name": "My Local Model A", "percentage": 68.1 },
+    { "name": "My Local Model B", "percentage": 64.3 },
+    { "name": "My Local Model C", "percentage": 60.9 }
+  ]
+}

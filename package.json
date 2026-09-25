@@ -1,0 +1,28 @@
+{
+  "name": "model-benchmark-gen",
+  "version": "1.0.0",
+  "description": "Generate AI model benchmark charts (grouped bars and log-scale scatter) as SVG. Zero dependencies.",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "example": "node examples/example.js"
+  },
+  "keywords": [
+    "benchmark",
+    "chart",
+    "svg",
+    "ai",
+    "llm",
+    "model",
+    "bar-chart",
+    "scatter-plot",
+    "generator"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
